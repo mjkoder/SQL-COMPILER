@@ -1,0 +1,11 @@
+.query-selector{
+    margin-bottom: 20px;
+}
+
+.selector-dropdown{
+    width: 100%;
+    padding: 10px;
+    font-size:16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
